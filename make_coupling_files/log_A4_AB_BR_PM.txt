@@ -1,0 +1,50 @@
+Start to run ...
+number of blocks: 2
+Block 1: 751|751|331|331
+Block 2: 451|451|121|121
+Block 1
+Side 1 Start: 1 ,End: 751
+Side 2 Start: 752 ,End: 1502
+Side 3 Start: 1503 ,End: 1833
+Side 4 Start: 1834 ,End: 2164
+Block 2
+Side 1 Start: 2165 ,End: 2615
+Side 2 Start: 2616 ,End: 3066
+Side 3 Start: 3067 ,End: 3187
+Side 4 Start: 3188 ,End: 3308
+Start block: 1Side number (EWSN)1
+Check if coarse to fine is consistent ...  13501?=13501Side number (EWSN)2
+Check if coarse to fine is consistent ...  13501?=13501Side number (EWSN)3
+Check if coarse to fine is consistent ...  5941?=5941Side number (EWSN)4
+Check if coarse to fine is consistent ...  5941?=5941coupling data
+boundary info: num of points, start point
+EAST
+	13501		1
+WEST
+	13501		1
+SOUTH
+	5941		1
+NORTH
+	5941		1
+NOTE: This coupling file starts at time = 5.010400e+03 sec
+      ends at time = 22992 sec
+Total time steps: 899
+Time interval is AROUND: 20.5
+Start block: 2Side number (EWSN)1
+Check if coarse to fine is consistent ...  8101?=8101Side number (EWSN)2
+Check if coarse to fine is consistent ...  8101?=8101Side number (EWSN)3
+Check if coarse to fine is consistent ...  2161?=2161Side number (EWSN)4
+Check if coarse to fine is consistent ...  2161?=2161coupling data
+boundary info: num of points, start point
+EAST
+	8101		1
+WEST
+	8101		1
+SOUTH
+	2161		1
+NORTH
+	2161		1
+NOTE: This coupling file starts at time = 5.010400e+03 sec
+      ends at time = 22992 sec
+Total time steps: 899
+Time interval is AROUND: 20.5

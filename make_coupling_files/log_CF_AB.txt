@@ -1,0 +1,26 @@
+Start to run ...
+number of blocks: 1
+Block 1: 361|361|121|121
+Block 1
+Side 1 Start: 1 ,End: 361
+Side 2 Start: 362 ,End: 722
+Side 3 Start: 723 ,End: 843
+Side 4 Start: 844 ,End: 964
+Start block: 1Side number (EWSN)1
+Check if coarse to fine is consistent ...  3601?=3601Side number (EWSN)2
+Check if coarse to fine is consistent ...  3601?=3601Side number (EWSN)3
+Check if coarse to fine is consistent ...  1201?=1201Side number (EWSN)4
+Check if coarse to fine is consistent ...  1201?=1201coupling data
+boundary info: num of points, start point
+EAST
+	3601		1
+WEST
+	3601		1
+SOUTH
+	1201		1
+NORTH
+	1201		1
+NOTE: This coupling file starts at time = 2.012400e+03 sec
+      ends at time = 19982 sec
+Total time steps: 600
+Time interval is AROUND: 29.4
